@@ -2,4 +2,5 @@
 Curso de Analisis Exploratorio de Datos en Platzi
 -----
 Hecho por Dionicio Perez-Landero
-ig: gatitoquelegustaelmambo_
+ig: gatitoquelegustaelmambo
+:)_
